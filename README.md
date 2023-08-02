@@ -1,7 +1,22 @@
 <h1>Hello World!!!</h1>
 <p>
-  Olá! Sou <strong>Igor Watanabe</strong>, entusiasta da tecnologia, desenvolvedor de software e apaixonado por resolver problemas através da programação. Bem-vindo(a) ao meu GitHub!
+  Olá! Sou <strong>Igor</strong>, formado em Engenharia Civil, sou do interior do estado de São Paulo, mais especificamente em Presidente Prudente (curiosidade: aqui tem apenas duas estações do ano, quente e muito quente 🥵). Sou novo na área de programação mas venho me identificando cada vez mais com o passar do tempo, o que mais me apaixona são as possibilidades de soluções de problemas através da tecnologia!
+  <br>Bem-vindo(a) ao meu GitHub!
 </p>
+
+<h2>Curiosidades e Interesses Pessoais</h2>
+<p>
+  Gosto muito de praticar atividades físicas, acredito que são indispensáveis para a vida, pratico principalmente:
+  <li>⚾ Baseball</li>
+  <li>🏐 Volei</li>
+  <li>🏃 Corrida</li>
+  <li>🏋️‍♂️ Musculação</li>  
+</p>
+<p>
+  Ja fui socio-proprietario de um pequeno escritorio de enganharia civil durante 3 anos, onde tive a oportunidade de aprender muitas coisas que não se ensina na faculdade.
+</p>
+
+<h2>Rede Sociais</h2>
 <div>
   <a href=https://www.linkedin.com/in/igor-watanabe/>
     <img alt='Linkedin' src='https://camo.githubusercontent.com/7896e305249b958e8aa7638ca2e0bcff692290215240eabf8db02a570d2e0835/68747470733a2f2f692e6962622e636f2f4b7832475372542f6c696e6b6564696e2e706e67' height='50' width='50'>
@@ -15,7 +30,7 @@
   
 </div>
 
-Tecnologias e Ferramentas
+<h2>Tecnologias e Ferramentas</h2>
 <div>
   <img alt='HTML5' src='https://camo.githubusercontent.com/89a4f052af35af3ae91139b0da6496483e00d4fb645589fc4d26cf95b42f8454/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d706c61696e2d776f72646d61726b2e737667' height='50' width='50'>
   <img alt='CSS3' src='https://camo.githubusercontent.com/b3ce9472d369cacc72c37b7be98298b051836c138eada89587178fbd41939043/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2d776f72646d61726b2e737667' height='50' width='50'>
