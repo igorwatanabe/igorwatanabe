@@ -1,20 +1,28 @@
-<h1>Hello World!!!</h1>
+<h1>Hello World!</h1>
 <p>
   Olá! Sou <strong>Igor</strong>, formado em Engenharia Civil, sou do interior do estado de São Paulo, mais especificamente em Presidente Prudente (curiosidade: aqui tem apenas duas estações do ano, quente e muito quente 🥵). Sou novo na área de programação mas venho me identificando cada vez mais com o passar do tempo, o que mais me apaixona são as possibilidades de soluções de problemas através da tecnologia!
-  <br>Bem-vindo(a) ao meu GitHub!
 </p>
+<p>
+  Atualmente estou finalizando o curso intensivo da Trybe:
+  <br>Fundamentos; ✅
+  <br>FrontEnd; ✅
+  <br>BackEnd; 🚀(Em andamento)
+  <br>Ciência da Computação.
+</p>
+<p>Bem-vindo(a) ao meu GitHub!</p>
 
 <h2>Curiosidades e Interesses Pessoais</h2>
-<p>
-  Gosto muito de praticar atividades físicas, acredito que são indispensáveis para a vida, pratico principalmente:
-  <li>⚾ Baseball</li>
-  <li>🏐 Volei</li>
-  <li>🏃 Corrida</li>
-  <li>🏋️‍♂️ Musculação</li>  
-</p>
-<p>
-  Ja fui socio-proprietario de um pequeno escritorio de enganharia civil durante 3 anos, onde tive a oportunidade de aprender muitas coisas que não se ensina na faculdade.
-</p>
+<ul>
+  <li>
+    Gosto muito de praticar atividades físicas, acredito que são indispensáveis para a vida, pratico principalmente: ⚾ baseball, 🏐 vôlei, 🏃 corrida e 🏋️‍♂️ musculação;
+  </li>
+  <li>
+    🏖️ Nas folgas gosto de viajar, principalmente ir para lugares onde tem contato com a natureza, como fazer trilhas, acampar, ir em cachoeiras e praias. Me ajuda a renovar as energias do mundo corrido que vivemos atualmente;
+  </li>
+  <li>
+    👷 Já fui sócio-proprietário de um pequeno escritório de enganharia civil durante 3 anos, onde tive a oportunidade de aprender muitas coisas, como gerenciamento, questões burocráticas, relações com clientes, etc.
+</li>
+</ul>
 
 <h2>Rede Sociais</h2>
 <div>
@@ -27,7 +35,6 @@
   <a href='https://www.instagram.com/igorwatanabe/'>
     <img alt='Instagram' src='https://camo.githubusercontent.com/109977a284aefe0c20628563ac58b29776daad72fdaf4bdbff46cbc34c922a03/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f313231312f504e472f3531322f313439313537393630322d79756d6d696e6b79736f6369616c6d6564696133365f38333036372e706e67' height='50' width='50'>
   </a>
-  
 </div>
 
 <h2>Tecnologias e Ferramentas</h2>
@@ -36,7 +43,7 @@
   <img alt='CSS3' src='https://camo.githubusercontent.com/b3ce9472d369cacc72c37b7be98298b051836c138eada89587178fbd41939043/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d706c61696e2d776f72646d61726b2e737667' height='50' width='50'>
   <img alt='JavaScript' src='https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667' height='50' width='50'>
   <img alt='React' src='https://camo.githubusercontent.com/e84431cfbd9f7c44b1c20da1dde8ad407cbc31174844a428074d1e3b43faab8b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2d776f72646d61726b2e737667' height='50' width='50'>
-  <img alt='GIT' src='https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667' height='50' width='50'>
+  <img alt='GIT' src='https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667' height='50' width='50'>
   <img alt='Jest' src='https://camo.githubusercontent.com/fd37a0ed465d6e14411705324a0d21739377f54ab6d0ae146c68fca8777e16c7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667' height='50' width='50'>
   <img alt='MySQL' src='https://camo.githubusercontent.com/ad7293939c16e73991b8d60763373b710bf9e96923595e8dd90fb7dee464e9ce/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667' height='50' width='50'>
   <img alt='Docker' src='https://camo.githubusercontent.com/240d9f9177236e5fd117a33e31e5b77b5fece5f03410fe10f5c7835937fb3506/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d706c61696e2d776f72646d61726b2e737667' height='50' width='50'>
