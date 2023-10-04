@@ -14,13 +14,16 @@
 <h2>Curiosidades e Interesses Pessoais</h2>
 <ul>
   <li>
+    Na falta de um nome tenho 3, Igor, Rafael e Tadashi(nome japonês), segundo minha querida mãe, apenas Igor era um nome muito curto 🤦‍♂️;
+  </li>
+  <li>
     Gosto muito de praticar atividades físicas, acredito que são indispensáveis para a vida, pratico principalmente: ⚾ baseball, 🏐 vôlei, 🏃 corrida e 🏋️‍♂️ musculação;
   </li>
   <li>
     🏖️ Nas folgas gosto de viajar, principalmente ir para lugares onde tem contato com a natureza, como fazer trilhas, acampar, ir em cachoeiras e praias. Me ajuda a renovar as energias do mundo corrido que vivemos atualmente;
   </li>
   <li>
-    👷 Já fui sócio-proprietário de um pequeno escritório de enganharia civil durante 3 anos, onde tive a oportunidade de aprender muitas coisas, como gerenciamento, questões burocráticas, relações com clientes, etc.
+    👷 Já fui sócio-proprietário de um pequeno escritório de enganharia civil durante 4 anos, onde tive a oportunidade de aprender muitas coisas, como gerenciamento, questões burocráticas, relações com clientes, etc.
 </li>
 </ul>
 
