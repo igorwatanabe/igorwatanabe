@@ -6,8 +6,8 @@
   Atualmente estou finalizando o curso intensivo da Trybe:
   <br>Fundamentos; ✅
   <br>FrontEnd; ✅
-  <br>BackEnd; 🚀(Em andamento)
-  <br>Ciência da Computação.
+  <br>BackEnd; ✅
+  <br>Ciência da Computação. 🚀(Em andamento)
 </p>
 <p>Bem-vindo(a) ao meu GitHub!</p>
 
