@@ -23,7 +23,7 @@
     🏖️ Nas folgas gosto de viajar, principalmente ir para lugares onde tem contato com a natureza, como fazer trilhas, acampar, ir em cachoeiras e praias. Me ajuda a renovar as energias do mundo corrido que vivemos atualmente;
   </li>
   <li>
-    👷 Já fui sócio-proprietário de um pequeno escritório de enganharia civil durante 4 anos, onde tive a oportunidade de aprender muitas coisas, como gerenciamento, questões burocráticas, relações com clientes, etc.
+    👷 Já fui sócio-proprietário de um pequeno escritório de engenharia civil durante 4 anos, onde tive a oportunidade de aprender muitas coisas, como gerenciamento, questões burocráticas, relações com clientes, etc.
 </li>
 </ul>
 
