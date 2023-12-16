@@ -55,8 +55,6 @@
   <img alt='Redux' src='https://camo.githubusercontent.com/2b6b50702c658cdfcf440cef1eb88c7e0e5a16ce0eb6ab8bc933da7697c12213/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656475782f72656475782d6f726967696e616c2e737667' height='50' width='50'>  
 </div>
 
-
-![Snake animation](https://github.com/igorwatanabe/igorwatanabe/blob/output/github-contribution-grid-snake.svg)
 <!--
 **igorwatanabe/igorwatanabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
